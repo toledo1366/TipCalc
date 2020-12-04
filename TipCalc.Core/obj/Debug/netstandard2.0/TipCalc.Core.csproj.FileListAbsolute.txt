@@ -1,0 +1,9 @@
+E:\CAPGEMINI\naukowe\TipCalc\TipCalc.Core\bin\Debug\netstandard2.0\TipCalc.Core.deps.json
+E:\CAPGEMINI\naukowe\TipCalc\TipCalc.Core\bin\Debug\netstandard2.0\TipCalc.Core.dll
+E:\CAPGEMINI\naukowe\TipCalc\TipCalc.Core\bin\Debug\netstandard2.0\TipCalc.Core.pdb
+E:\CAPGEMINI\naukowe\TipCalc\TipCalc.Core\obj\Debug\netstandard2.0\TipCalc.Core.csprojAssemblyReference.cache
+E:\CAPGEMINI\naukowe\TipCalc\TipCalc.Core\obj\Debug\netstandard2.0\TipCalc.Core.AssemblyInfoInputs.cache
+E:\CAPGEMINI\naukowe\TipCalc\TipCalc.Core\obj\Debug\netstandard2.0\TipCalc.Core.AssemblyInfo.cs
+E:\CAPGEMINI\naukowe\TipCalc\TipCalc.Core\obj\Debug\netstandard2.0\TipCalc.Core.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\naukowe\TipCalc\TipCalc.Core\obj\Debug\netstandard2.0\TipCalc.Core.dll
+E:\CAPGEMINI\naukowe\TipCalc\TipCalc.Core\obj\Debug\netstandard2.0\TipCalc.Core.pdb

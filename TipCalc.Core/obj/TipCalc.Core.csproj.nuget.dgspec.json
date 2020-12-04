@@ -46,13 +46,17 @@
           "dependencies": {
             "MvvmCross": {
               "target": "Package",
-              "version": "[7.1.2, )"
+              "version": "[6.2.0, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.0-pre4, )"
             }
           },
           "imports": [

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TipCalc.Core
+namespace TipCalc.Core.Services
 {
     public interface ICalculationService
     {

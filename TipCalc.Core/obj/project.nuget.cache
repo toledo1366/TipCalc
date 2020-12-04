@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "5Yfxg/YMJ1J0nERJ1lOuIifRyL3eYx5+mxe1pibtDxxzR0Bom7XmLg3Egy2pv5t6ZlVxGWWnA5terLAlzNkeVA==",
+  "dgSpecHash": "LUrQWIoYotNbqeD2xnMEvg1rB1ii3vxIeYBLvYqN+jRIWOghzeONyI7tQPZYmnE8hKndDRJ7WSUDkn0Ma4bB7w==",
   "success": true,
   "projectFilePath": "E:\\CAPGEMINI\\naukowe\\TipCalc\\TipCalc.Core\\TipCalc.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\toled\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\toled\\.nuget\\packages\\mvvmcross\\7.1.2\\mvvmcross.7.1.2.nupkg.sha512",
-    "C:\\Users\\toled\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\toled\\.nuget\\packages\\mvvmcross\\6.2.0\\mvvmcross.6.2.0.nupkg.sha512",
+    "C:\\Users\\toled\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\toled\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\toled\\.nuget\\packages\\xamarin.essentials\\1.6.0-pre4\\xamarin.essentials.1.6.0-pre4.nupkg.sha512"
   ],
   "logs": []
 }
